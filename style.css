@@ -1,120 +1,35 @@
 body {
-font-family: Arial, sans-serif;
-margin: 0;
-background-color:rgba(255, 0, 0, 0.228);
-color: #3b2416;
+background-color: #fff5f0;
+color: #4a1c1c;
+font-family: Arial;
 }
 
 header {
-background-color: #7b2d26;
-color: rgba(255, 0, 0, 0.228);
+background-color: #8b1e2d;
+color: white;
 text-align: center;
-padding: 40px 20px;
-}
-
-header h1 {
-font-size: 45px;
-margin-bottom: 10px;
-}
-
-header p {
-font-size: 18px;
+padding: 30px;
 }
 
 nav {
-background-color:rgba(255, 0, 0, 0.228);
+background-color: #4a1c1c;
 text-align: center;
 padding: 15px;
 }
 
 nav a {
 color: white;
-text-decoration: none;
-margin: 0 20px;
-font-weight: bold;
+margin: 15px;
 }
 
 nav a:hover {
-color: white;
-}
-
-main {
-max-width: 1000px;
-margin: auto;
+color: rgb(255, 192, 205);
 }
 
 section {
-padding: 50px 30px;
-margin: 20px 0;
+padding: 25px;
 }
 
-#hero {
-text-align: center;
-}
-
-#hero img {
-width: 70%;
-max-width: 600px;
-border-radius: 15px;
-margin: 20px 0;
-}
-
-#hero a {
-display: inline-block;
-background-color:rgba(255, 0, 0, 0.228);
-color: white;
-padding: 12px 25px;
-text-decoration: none;
-border-radius: 8px;
-}
-
-#hero a:hover {
-background-color: rgba(255, 0, 0, 0.228);
-}
-
-#menu {
-background-color: rgba(255, 0, 0, 0.228);
-border-radius: 15px;
-}
-
-#menu h2,
-#about h2,
-#contact h2 {
-color: white;
-font-size: 30px;
-}
-
-#menu h3 {
-margin-top: 25px;
-}
-
-#menu p:last-child {
-font-weight: bold;
-}
-
-#about {
-text-align: center;
-}
-
-#about img {
-width: 70%;
-max-width: 600px;
-border-radius: 15px;
-margin-top: 20px;
-}
-
-#contact {
-background-color: rgba(255, 0, 0, 0.228);
-border-radius: 15px;
-}
-
-#contact li {
-margin: 12px 0;
-}
-
-footer {
-background-color: rgba(255, 0, 0, 0.228);
-color: white;
-text-align: center;
-padding: 20px;
+h2 {
+color: #8b1e2d;
 }
